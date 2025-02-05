@@ -169,8 +169,7 @@
 @media (min-width: 750px)
 {
     .header{
-        position: fixed;
-        height: 120px;
+        height: 100px;
         width: 100%;
         background-color: white;
         display: flex;
@@ -179,27 +178,27 @@
     }
     .options{
         background-color: white;
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     a{
         background-color: white;
         text-decoration: none;
         color: black;
-        padding: 40px;
+        padding: 30px;
     }
     .img1{
-        padding-top: 120px;
+        padding-top: 20px;
         padding-left: 10px;
         height: 600px;
         width: 600px;
     }
     #home{
-        height: 730px;
+        height: 650px;
         color: white;
         display: flex;
     }
     .hh1{
-        padding-top: 300px;
+        padding-top: 190px;
         padding-left: 120px;
         font-size: 1.5rem;
     }
@@ -336,5 +335,4 @@
         font-size: 1rem;
         border-radius: 10px;
     }
-
 }
